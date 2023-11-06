@@ -5,6 +5,6 @@ My Website: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icl
 
 My Linkedin: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brandon-n-0128a144/)
 
-[![Brandons Github Stats](https://github-readme-stats.vercel.app/api?username=brandon3123&hide=issues,contribs&count_private=true&show_icons=true)](https://github.com/brandon3123/github-readme-stats)   
+[//]: # ([![Brandons Github Stats](https://github-readme-stats.vercel.app/api?username=brandon3123&hide=issues,contribs&count_private=true&show_icons=true)](https://github.com/brandon3123/github-readme-stats))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon3123&layout=compact)](https://github.com/brandon3123/github-readme-stats) 
